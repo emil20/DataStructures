@@ -1,4 +1,7 @@
+package strings;
+
 public class ReverseString {
+    //pass an input string
    public static void main(String[] args) {
       String s = args[0];
 
